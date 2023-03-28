@@ -1,1 +1,1 @@
-Lista de exerc
+Lista de exercicios sobre programacao basica em C
